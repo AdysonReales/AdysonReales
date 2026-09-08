@@ -1,6 +1,9 @@
 <div align="center">
+  <div align="center">
+    <img src="https://brand.github.com/_next/static/media/logo-01.a1916c76.png" alt="GitHub Logo" width="180">
+  </div>
   <h1>Hi there, I'm Adyson! 👋</h1>
-  <p><strong>💻 2nd Year CS Student (App Dev) | 🎮 Game Developer | 🎥 Content Creator</strong></p>
+  <p><strong>💻 3rd Year CS Student (App Dev) | 🎮 Game Developer | 🎥 Content Creator</strong></p>
 </div>
 
 <br/>
