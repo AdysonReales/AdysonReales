@@ -1,155 +1,372 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/AdysonReales/AdysonReales/main/images/banner.png" alt="Adyson Reales Banner" width="100%">
+
+<img src="https://raw.githubusercontent.com/AdysonReales/AdysonReales/main/Images/banner.png" alt="Adyson Reales" width="100%">
+
+<br>
+
+<h1>✦ Adyson Reales ✦</h1>
+
+<p>
+  <i>Computer Science Student · Application Development</i>
+</p>
+
+<p>
+  <code>Full-Stack Development</code>
+  <code>System Architecture</code>
+  <code>Game Development</code>
+</p>
+
+<br>
+
+<img src="https://win98icons.alexmeub.com/icons/png/book_open-4.png" width="18">
+&nbsp;
+<i>「 Building systems, games, and strange little worlds. 」</i>
+&nbsp;
+<img src="https://win98icons.alexmeub.com/icons/png/book_open-4.png" width="18">
+
 </div>
 
 <br>
 
-<h3 align="center">
-  <img src="https://win98icons.alexmeub.com/icons/png/computer_explorer-4.png" width="22" align="center"> Adyson_Reales.exe
-</h3>
+---
 
 <div align="center">
-  <code>=================================================================================</code><br>
-  <code>System Info : 3rd Yr CS Student (App Dev) @ Mapúa University                     </code><br>
-  <code>Core Roles  : Full-Stack Dev | System Architect | Game Dev                      </code><br>
-  <code>=================================================================================</code>
+
+## ☾ ABOUT ME
+
+</div>
+
+> **Adyson Reales** — Computer Science student specializing in **Application Development** at Mapúa University.
+>
+> I enjoy building software systems, interactive applications, games, and experimental projects where **engineering meets design**.
+>
+> My work usually sits somewhere between **software development, system architecture, game development, and creative technology.**
+
+<br>
+
+<div align="center">
+
+`✦` `✧` `✦` `✧` `✦` `✧` `✦` `✧` `✦`
+
 </div>
 
 <br>
 
-<!-- WINDOWS 98 DESKTOP SYSTEM ICONS -->
-<table width="100%">
-  <tr>
-    <td bgcolor="#000080">
-      <font color="#ffffff"><b><img src="https://win98icons.alexmeub.com/icons/png/directory_program_group-0.png" width="16" align="center"> C:\System_Environment\Desktop_Icons.sys</b></font>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <br>
-      <!-- PROGRAMS CATEGORY -->
-      <details open>
-        <summary><b>📁 My Programs & Tools</b></summary>
-        <br>
-        <a href="#"><img src="https://raw.githubusercontent.com/AdysonReales/AdysonReales/main/images/icon1.png" width="32" alt="Photoshop" title="Photoshop"></a>
-        <a href="#"><img src="https://raw.githubusercontent.com/AdysonReales/AdysonReales/main/images/icon2.png" width="32" alt="After Effects" title="After Effects"></a>
-        <a href="#"><img src="https://raw.githubusercontent.com/AdysonReales/AdysonReales/main/images/icon3.png" width="32" alt="Premiere Pro" title="Premiere Pro"></a>
-        <a href="#"><img src="https://raw.githubusercontent.com/AdysonReales/AdysonReales/main/images/icon4.png" width="32" alt="Blender" title="Blender"></a>
-        <a href="#"><img src="https://raw.githubusercontent.com/AdysonReales/AdysonReales/main/images/icon5.png" width="32" alt="FL Studio" title="FL Studio"></a>
-        <a href="#"><img src="https://raw.githubusercontent.com/AdysonReales/AdysonReales/main/images/icon6.png" width="32" alt="VS Code" title="VS Code"></a>
-        <a href="#"><img src="https://raw.githubusercontent.com/AdysonReales/AdysonReales/main/images/icon7.png" width="32" alt="Godot" title="Godot"></a>
-        <a href="#"><img src="https://raw.githubusercontent.com/AdysonReales/AdysonReales/main/images/unity.png" width="32" alt="Unity" title="Unity"></a>
-        <a href="#"><img src="https://raw.githubusercontent.com/AdysonReales/AdysonReales/main/images/icon8.png" width="32" alt="Ibis Paint" title="Ibis Paint"></a>
-        <a href="#"><img src="https://raw.githubusercontent.com/AdysonReales/AdysonReales/main/images/icon9.png" width="32" alt="SQL Workbench" title="SQL Workbench"></a>
-        <a href="#"><img src="https://raw.githubusercontent.com/AdysonReales/AdysonReales/main/images/icon10.png" width="32" alt="Arduino IDE" title="Arduino IDE"></a>
-        <a href="#"><img src="https://raw.githubusercontent.com/AdysonReales/AdysonReales/main/images/icon11.png" width="32" alt="PyCharm" title="PyCharm"></a>
-      </details>
+---
 
-      <hr>
+<div align="center">
 
-      <!-- FRONT-END LANGUAGES CATEGORY -->
-      <details open>
-        <summary><b>📁 Front-End Development</b></summary>
-        <br>
-        <a href="#"><img src="https://raw.githubusercontent.com/AdysonReales/AdysonReales/main/images/icon12.png" width="32" alt="HTML" title="HTML"></a>
-        <a href="#"><img src="https://raw.githubusercontent.com/AdysonReales/AdysonReales/main/images/icon13.png" width="32" alt="CSS" title="CSS"></a>
-        <a href="#"><img src="https://raw.githubusercontent.com/AdysonReales/AdysonReales/main/images/icon14.png" width="32" alt="JavaScript" title="JavaScript"></a>
-        <a href="#"><img src="https://raw.githubusercontent.com/AdysonReales/AdysonReales/main/images/icon15.png" width="32" alt="TypeScript" title="TypeScript"></a>
-        <a href="#"><img src="https://raw.githubusercontent.com/AdysonReales/AdysonReales/main/images/icon16.png" width="32" alt="React" title="React"></a>
-        <a href="#"><img src="https://raw.githubusercontent.com/AdysonReales/AdysonReales/main/images/angular.png" width="32" alt="Angular" title="Angular"></a>
-        <a href="#"><img src="https://raw.githubusercontent.com/AdysonReales/AdysonReales/main/images/icon17.png" width="32" alt="Three.js" title="Three.js"></a>
-      </details>
+## ⚔️ THE ARMORY
 
-      <hr>
+<i>Tools, languages, and technologies I work with.</i>
 
-      <!-- BACK-END & DB CATEGORY -->
-      <details open>
-        <summary><b>📁 Back-End & Databases (System Architecture)</b></summary>
-        <br>
-        <a href="#"><img src="https://raw.githubusercontent.com/AdysonReales/AdysonReales/main/images/icon18.png" width="32" alt="Node.js" title="Node.js"></a>
-        <a href="#"><img src="https://raw.githubusercontent.com/AdysonReales/AdysonReales/main/images/icon19.png" width="32" alt="Express" title="Express"></a>
-        <a href="#"><img src="https://raw.githubusercontent.com/AdysonReales/AdysonReales/main/images/icon20.png" width="32" alt="Laravel" title="Laravel"></a>
-        <a href="#"><img src="https://raw.githubusercontent.com/AdysonReales/AdysonReales/main/images/icon21.png" width="32" alt="MySQL" title="MySQL"></a>
-        <a href="#"><img src="https://raw.githubusercontent.com/AdysonReales/AdysonReales/main/images/icon22.png" width="32" alt="MongoDB" title="MongoDB"></a>
-        <a href="#"><img src="https://raw.githubusercontent.com/AdysonReales/AdysonReales/main/images/icon23.png" width="32" alt="Supabase" title="Supabase"></a>
-      </details>
+<br><br>
 
-      <hr>
+### ◈ APPLICATION DEVELOPMENT
 
-      <!-- OTHER / HARDWARE LANGUAGES CATEGORY -->
-      <details open>
-        <summary><b>📁 System Languages & Hardware</b></summary>
-        <br>
-        <a href="#"><img src="https://raw.githubusercontent.com/AdysonReales/AdysonReales/main/images/icon24.png" width="32" alt="C#" title="C#"></a>
-        <a href="#"><img src="https://raw.githubusercontent.com/AdysonReales/AdysonReales/main/images/icon25.png" width="32" alt="Lua" title="Lua"></a>
-        <a href="#"><img src="https://raw.githubusercontent.com/AdysonReales/AdysonReales/main/images/icon26.png" width="32" alt="Arduino" title="Arduino"></a>
-        <a href="#"><img src="https://raw.githubusercontent.com/AdysonReales/AdysonReales/main/images/icon27.png" width="32" alt="Raspberry Pi" title="Raspberry Pi"></a>
-      </details>
-      <br>
-    </td>
-  </tr>
-</table>
+<img src="./Images/icon12.png" width="42" alt="HTML" title="HTML">
+&nbsp;
+<img src="./Images/icon13.png" width="42" alt="CSS" title="CSS">
+&nbsp;
+<img src="./Images/icon14.png" width="42" alt="JavaScript" title="JavaScript">
+&nbsp;
+<img src="./Images/icon15.png" width="42" alt="TypeScript" title="TypeScript">
+&nbsp;
+<img src="./Images/icon16.png" width="42" alt="React" title="React">
+&nbsp;
+<img src="./Images/angular.png" width="42" alt="Angular" title="Angular">
+&nbsp;
+<img src="./Images/icon17.png" width="42" alt="Three.js" title="Three.js">
 
-<br>
+<br><br>
 
-<!-- WINDOWS 98 DESKTOP WINDOW / SHOWCASE -->
-<table width="100%">
-  <tr>
-    <th align="left" bgcolor="#000080">
-      <font color="#ffffff">
-        <img src="https://win98icons.alexmeub.com/icons/png/application_executable-1.png" width="16" align="center"> C:\Portfolio.exe — Full-Stack & System Projects
-      </font>
-    </th>
-  </tr>
-  <tr>
-    <td>
-      <br>
-      <div align="center">
-        <img src="https://raw.githubusercontent.com/AdysonReales/AdysonReales/main/media/dungeon-lms.gif" width="95%" alt="Dungeon LMS Showcase"><br>
-        <sub><b>Featured Project:</b> Dungeon LMS — Full-Stack System Architect & Lead Dev</sub>
-      </div>
-      <br>
-      <ul>
-        <li><b>Dungeon_LMS.exe</b> — Gamified Learning Management System mapped as a dungeon (React, TS, Node, MongoDB).</li>
-        <li><b>BinBin_AI.exe</b> — AI-Powered Circular Economy Model (System Architecture & Pitch Lead).</li>
-        <li><b>Human_Milk_Bank.exe</b> — SRS & System Process Flow Design for Makati Milk Bank.</li>
-        <li><b>Java_Paint.jar</b> — Custom raster drawing engine built in IntelliJ.</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+### ◈ BACK-END & DATABASES
+
+<img src="./Images/icon18.png" width="42" alt="Node.js" title="Node.js">
+&nbsp;
+<img src="./Images/icon19.png" width="42" alt="Express" title="Express">
+&nbsp;
+<img src="./Images/icon20.png" width="42" alt="Laravel" title="Laravel">
+&nbsp;
+<img src="./Images/icon21.png" width="42" alt="MySQL" title="MySQL">
+&nbsp;
+<img src="./Images/icon22.png" width="42" alt="MongoDB" title="MongoDB">
+&nbsp;
+<img src="./Images/icon23.png" width="42" alt="Supabase" title="Supabase">
+
+<br><br>
+
+### ◈ GAME & SYSTEM DEVELOPMENT
+
+<img src="./Images/icon24.png" width="42" alt="C#" title="C#">
+&nbsp;
+<img src="./Images/icon25.png" width="42" alt="Lua" title="Lua">
+&nbsp;
+<img src="./Images/unity.png" width="42" alt="Unity" title="Unity">
+&nbsp;
+<img src="./Images/icon7.png" width="42" alt="Godot" title="Godot">
+&nbsp;
+<img src="./Images/icon26.png" width="42" alt="Arduino" title="Arduino">
+&nbsp;
+<img src="./Images/icon27.png" width="42" alt="Raspberry Pi" title="Raspberry Pi">
+
+<br><br>
+
+### ◈ CREATIVE TOOLS
+
+<img src="./Images/icon1.png" width="42" alt="Photoshop" title="Photoshop">
+&nbsp;
+<img src="./Images/icon2.png" width="42" alt="After Effects" title="After Effects">
+&nbsp;
+<img src="./Images/icon3.png" width="42" alt="Premiere Pro" title="Premiere Pro">
+&nbsp;
+<img src="./Images/icon4.png" width="42" alt="Blender" title="Blender">
+&nbsp;
+<img src="./Images/icon5.png" width="42" alt="FL Studio" title="FL Studio">
+&nbsp;
+<img src="./Images/icon6.png" width="42" alt="VS Code" title="VS Code">
+&nbsp;
+<img src="./Images/icon8.png" width="42" alt="Ibis Paint" title="Ibis Paint">
+&nbsp;
+<img src="./Images/icon10.png" width="42" alt="Arduino IDE" title="Arduino IDE">
+
+</div>
 
 <br>
 
-<!-- GAME DEV & BROADCAST SHOWCASE -->
-<table width="100%">
-  <tr>
-    <th align="left" bgcolor="#000080">
-      <font color="#ffffff">
-        <img src="https://win98icons.alexmeub.com/icons/png/gamemine_1-0.png" width="16" align="center"> C:\Games_and_Jams.sys
-      </font>
-    </th>
-  </tr>
-  <tr>
-    <td>
-      <br>
-      <div align="center">
-        <img src="https://raw.githubusercontent.com/AdysonReales/AdysonReales/main/media/pop-er-fish.gif" width="95%" alt="PopEr Fish Showcase"><br>
-        <sub><b>Global Game Jam 2025:</b> PopEr Fish (Top 5 Best Games - Tech Artist)</sub>
-      </div>
-      <br>
-      <ul>
-        <li><a href="https://dyke-dog.itch.io/pop-er-fish" target="_blank"><b>PopEr_Fish.exe</b></a> — Global Game Jam 2025 Top 5 Winner.</li>
-        <li><a href="https://tofulittle.itch.io/rivertide" target="_blank"><b>Rivertide.exe</b></a> — 2D side-scroller built for GameJamPlus 2025 (Unity/C#).</li>
-        <li><a href="https://ssukimaru.itch.io/office-roulette" target="_blank"><b>Office_Roulette.exe</b></a> — WinXP-themed idle clicker game.</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+---
+
+<div align="center">
+
+## ✦ SELECTED WORKS ✦
+
+</div>
 
 <br>
 
-<div align="right">
-  <img src="https://win98icons.alexmeub.com/icons/png/loudspeaker_rays-0.png" width="14">
-  <code>System Status: Ready to Compile</code>
+### 🜏 Dungeon LMS
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/AdysonReales/AdysonReales/main/media/dungeon-lms.gif" width="90%" alt="Dungeon LMS">
+
+</div>
+
+**Dungeon LMS** is a gamified Learning Management System designed around a dungeon-inspired experience.
+
+**Role:** Full-Stack Developer · System Architect · Lead Developer
+
+`React` `TypeScript` `Node.js` `MongoDB`
+
+<br>
+
+---
+
+### ♢ BinBin AI
+
+**AI-Powered Circular Economy Model**
+
+A technology-driven circular economy concept focused on connecting waste management, sustainability, and intelligent systems.
+
+**Role:** System Architecture · Pitch Lead
+
+`AI` `System Design` `Architecture`
+
+<br>
+
+---
+
+### ♧ Human Milk Bank System
+
+**System Requirements & Process Flow Design**
+
+A structured system design project created for the Makati Milk Bank.
+
+**Focus:** Requirements Engineering · SRS · Process Modeling · System Design
+
+<br>
+
+---
+
+### ◇ Java Paint
+
+**Custom Raster Drawing Application**
+
+A Java-based drawing application developed from scratch using IntelliJ.
+
+**Focus:** Object-Oriented Programming · Application Development · Graphics
+
+<br>
+
+---
+
+<div align="center">
+
+`─────── ✦ ───────`
+
+</div>
+
+<br>
+
+<div align="center">
+
+## 🜂 GAME DEVELOPMENT
+
+<i>Games, jams, experiments, and interactive worlds.</i>
+
+</div>
+
+<br>
+
+### 🐟 PopEr Fish
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/AdysonReales/AdysonReales/main/media/pop-er-fish.gif" width="90%" alt="PopEr Fish">
+
+</div>
+
+**Global Game Jam 2025 — Top 5 Best Games**
+
+Worked as **Tech Artist / Game Developer** on this game jam project.
+
+<a href="https://dyke-dog.itch.io/pop-er-fish">✦ PLAY POPER FISH</a>
+
+<br><br>
+
+---
+
+### 🌊 RiverTide
+
+**2D Fishing Side-Scroller**
+
+A 2D fishing game developed for **GameJamPlus 2025**.
+
+`Unity` `C#` `2D` `Game Design`
+
+<a href="https://tofulittle.itch.io/rivertide">✦ PLAY RIVERTIDE</a>
+
+<br><br>
+
+---
+
+### 🎰 Office Roulette
+
+**Windows XP-inspired Idle Clicker**
+
+A small experimental game inspired by the visual language of classic desktop software.
+
+`Unity` `C#` `UI/UX`
+
+<a href="https://ssukimaru.itch.io/office-roulette">✦ PLAY OFFICE ROULETTE</a>
+
+<br>
+
+---
+
+<div align="center">
+
+## ✧ OTHER PROJECTS ✧
+
+</div>
+
+<div align="center">
+
+| Project | Focus |
+| :--- | :--- |
+| **Arduino + Unity Controller** | Hardware Integration · Serial Communication |
+| **LakBye** | Full-Stack Web Application · Maps · Supabase |
+| **SAKAY NA!** | Game Design · C# · Systems Programming |
+| **RiverTide** | Game Programming · Game Design · Sound |
+| **ESKWELA** | Roblox · Game Design · Customization |
+| **Anime Factory** | Roblox · Systems · Game Economy |
+
+</div>
+
+<br>
+
+---
+
+<div align="center">
+
+## 🕯️ WHAT I LIKE BUILDING
+
+<br>
+
+<table>
+<tr>
+<td align="center" width="33%">
+
+### ⚙️ SYSTEMS
+
+Architecture  
+APIs  
+Databases  
+Automation
+
+</td>
+
+<td align="center" width="33%">
+
+### 🎮 GAMES
+
+Gameplay  
+Tools  
+Interactive Systems  
+Game Design
+
+</td>
+
+<td align="center" width="33%">
+
+### ✦ CREATIVE TECH
+
+UI/UX  
+Visual Design  
+Audio  
+Experiments
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<br>
+
+---
+
+<div align="center">
+
+## ☽ CURRENTLY
+
+<br>
+
+<img src="https://win98icons.alexmeub.com/icons/png/computer_3-0.png" width="20">
+
+<br><br>
+
+<i>
+Studying Computer Science.<br>
+Building software.<br>
+Making games.<br>
+Learning something new.
+</i>
+
+<br><br>
+
+`✦ ─────────────── ✧ ─────────────── ✦`
+
+<br><br>
+
+### STATUS
+
+<img src="https://img.shields.io/badge/STATUS-ONLINE-111111?style=flat-square">
+<img src="https://img.shields.io/badge/BUILD-READY-111111?style=flat-square">
+<img src="https://img.shields.io/badge/MODE-CREATING-111111?style=flat-square">
+
+<br><br>
+
+<i>「 Ars longa, vita brevis. 」</i>
+
 </div>
