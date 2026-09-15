@@ -1,29 +1,6 @@
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/AdysonReales/AdysonReales/main/Images/banner.png" alt="Adyson Reales" width="100%">
-
-<br><br>
-
-<i>Computer Science Student · Application Development</i>
-
-<br><br>
-
-<code>Full-Stack Development</code>
-&nbsp;
-<code>System Architecture</code>
-&nbsp;
-<code>Game Development</code>
-
-<br><br>
-
-❦　「 Building systems, games, and strange little worlds. 」　❦
-
-</div>
-
-<br>
-
----
-
 <div align="center">
 
 ## ☾ ABOUT ME
